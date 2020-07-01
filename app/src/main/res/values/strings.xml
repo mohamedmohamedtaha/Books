@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Books</string>
+    <string name="error_data">No there data</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="publisher">Publisher</string>
+    <string name="isbn">Isbn</string>
+    <string name="must_fill_all_field">يجب ملى كل الحقول</string>
+</resources>
